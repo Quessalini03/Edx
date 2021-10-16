@@ -2,5 +2,10 @@
     "files.associations": {
         "iomanip": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
 }
